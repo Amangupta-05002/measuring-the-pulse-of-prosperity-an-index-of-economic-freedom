@@ -55,7 +55,7 @@ Explore interactive dashboards on Tableau Public:
 The dashboards and insights are embedded in a responsive website built using **HTML, CSS, Bootstrap**, and **Tableau Public embeds**.
 
 🔗 **Live Website:**  
-[https://beautiful-licorice-3af660.netlify.app/]( )
+[Amangupta-05002/an-index-of-economic-freedom](https://aesthetic-bienenstitch-ff23a5.netlify.app/)
 
 ---
 
